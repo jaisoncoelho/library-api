@@ -2,10 +2,10 @@
 
 ##### Autor: `Jaison Coelho`
 
-##### Requisitos: `.Net 3.1`, `.Net Cli`
+##### Requisitos: `.Net Core 3.1`, `.Net Cli`
 
 ## Observações
-Não foi utilizando banco orientado a documentos, pois não possuo muita expiriência. Quanto a interface em `Angular`, conheço pouco, tenho experiência com `React.js`, portanto optei por não fazer.
+Não foi utilizado banco orientado a documentos, pois não possuo muita experiência. Quanto a interface em `Angular`, conheço pouco, tenho experiência com `React.js`, portanto optei por não fazer.
 
 Para a base de dados, foi utilizado banco relacional rodado em mémoria.
 
